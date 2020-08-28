@@ -13,7 +13,6 @@
 
 - 🎸 Guitar
 - 🎥 Filmmaking
-
 <br />
 
 ## 📫 Connect with me:

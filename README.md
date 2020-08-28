@@ -10,8 +10,8 @@
 - 🥅 Future Goals: Get into AI
 
 # Other passions
-    - 🎸 Guitar
-    - 🎥 Filmmaking
+- 🎸 Guitar
+- 🎥 Filmmaking
 
 ### 📫 Connect with me:
 
@@ -43,11 +43,7 @@
 
 <details>
 
-<<<<<<< HEAD
-  <img align="left" alt="Jovan Jevtic's Github Stats" src="github-readme-stats.jovanjevtic.vercel.app/api? username=JovanJevtic&show_icons=true&hide_border=true" />
-=======
-  <img align="left" alt="Jovan Jevtic's Github Stats" src="github-readme-stats.jovanjevtic.vercel.app/api?username=JovanJevtic&show_icons=true&hide_border=true" />
->>>>>>> 939b32d232f5094c62a7529ceb81a77b42c55a04
+  [![Github Stats By Anurag](github-readme-stats-qu6w45ubo.vercel.app/api?username=JovanJevtic&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/JovanJevtic/github-readme-stats)
 
 </details>
 

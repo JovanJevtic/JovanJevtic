@@ -46,6 +46,12 @@
 <br />
 
 ---
+    <!--START_SECTION:activity-->
+    
+    <!--END_SECTION:activity>
+---
+
+<br />
 
 ![Jovan Jevtic](https://github-readme-stats.vercel.app/api?username=JovanJevtic&show_icons=true&count_private=true)
 <br />

@@ -2,6 +2,9 @@
 
 > “Don’t let the noise of others’ opinions drown out your own inner voice.” ― Steve Jobs
 
+### 🎧 Currently listening
+[![Spotify](https://novatorem-ivory.vercel.app/api/spotify)](https://open.spotify.com/user/31uw5lw5aw6wokhrjelifrjkpbna)
+
 ## I'm a Full Stack Developer
 
 - 🔭 Currently working on personal portfolio

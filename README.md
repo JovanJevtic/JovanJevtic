@@ -47,6 +47,18 @@
 
 ---
 
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
+
+<br />
+---
+
 ![Jovan Jevtic](https://github-readme-stats.vercel.app/api?username=JovanJevtic&show_icons=true)
 <br />
 <br />

@@ -47,7 +47,7 @@
 
 ---
 
-![Jovan Jevtic](https://github-readme-stats.vercel.app/api?username=JovanJevtic&show_icons=true)
+![Jovan Jevtic](https://github-readme-stats.vercel.app/api?username=JovanJevtic&show_icons=true&count_private=true)
 <br />
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JovanJevtic)](https://github.com/JovanJevtic/github-readme-stats)

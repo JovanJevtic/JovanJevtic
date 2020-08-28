@@ -43,7 +43,11 @@
 
 <details>
 
+<<<<<<< HEAD
   <img align="left" alt="Jovan Jevtic's Github Stats" src="github-readme-stats.jovanjevtic.vercel.app/api? username=JovanJevtic&show_icons=true&hide_border=true" />
+=======
+  <img align="left" alt="Jovan Jevtic's Github Stats" src="github-readme-stats.jovanjevtic.vercel.app/api?username=JovanJevtic&show_icons=true&hide_border=true" />
+>>>>>>> 939b32d232f5094c62a7529ceb81a77b42c55a04
 
 </details>
 

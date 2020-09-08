@@ -7,7 +7,7 @@
 
 ## I'm a Full Stack Developer
 
-- 🔭 Currently working on personal portfolio
+- 🔭 Just finished my portfolio
 - 🌱 I’m working mostly with MERN Stack
 - 👯 I’m looking to work with ambitious developers on inovative startups
 - 🥅 Future Goals: Get into AI

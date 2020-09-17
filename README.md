@@ -62,4 +62,4 @@
 [website]: https://jevtic.netlify.app/
 [twitter]: https://twitter.com/JevticJovan1
 [youtube]: https://www.youtube.com/channel/UCPzZwS-0cvm3Y2FWbXa0WFg
-[instagram]: https://www.instagram.com/the_jj__/
+[instagram]: https://www.instagram.com/jevtic.jovan_

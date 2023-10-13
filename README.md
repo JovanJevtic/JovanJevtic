@@ -2,23 +2,6 @@
 
 > “Don’t let the noise of others’ opinions drown out your own inner voice.” ― Steve Jobs
 
-### 🎧 Currently listening
-[![Spotify](https://novatorem-ivory.vercel.app/api/spotify)](https://open.spotify.com/user/31uw5lw5aw6wokhrjelifrjkpbna)
-
-## I'm a Full Stack Developer
-
-- 🔭 Just finished my portfolio
-- 🌱 I’m working mostly with MERN Stack
-- 👯 I’m looking to work with ambitious developers on inovative startups
-- 🥅 Future Goals: Get into AI
-
-### Other passions
-
-- 🎸 Guitar
-- 🎥 Filmmaking
-
-## 📫 Connect with me:
-
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]

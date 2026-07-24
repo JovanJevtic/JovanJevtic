@@ -14,7 +14,7 @@ Everything below was built in the past year. The decade before it lives at [jjov
 - Djir — ride-hailing engineered for cash-and-card regional markets
 - Outreach — internal Playwright + LLM lead-generation engine, crawling at scale
 
-**Independent** — client and product work alongside it.
+**Independent** — client and product work, all of it from this year too.
 
 - [Lana Zrnić](https://lanaz.art) — scroll-driven editorial portfolio for a photographer · live
 - Longi — multi-brand commerce engine with 3D product storytelling

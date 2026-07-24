@@ -5,6 +5,10 @@ I build the whole product: architecture, full-stack web, mobile, AI/RAG, and the
 
 Everything below was built in the past year. The decade before it lives at [jjovan.com](https://jjovan.com).
 
+**Open source**
+
+- [stacksniff](https://github.com/JovanJevtic/stacksniff) — detect the SaaS/tech stack a website runs, from static signatures plus a headless Playwright probe. TypeScript, zero-dependency core, 26 tests.
+
 **BLink d.o.o** — the startup. Software a mid-sized city was still missing.
 
 - [Urbano](https://urbano.ba) — civic operating system for a city of 180,000 · in production

@@ -1,42 +1,17 @@
-> “Don’t let the noise of others’ opinions drown out your own inner voice.” ― Steve Jobs
+### Jovan Jevtić
 
+Software Engineer & Creative — co-founder & CTO at BLink d.o.o (Banja Luka).
+I build the whole product: architecture, full-stack web, mobile, AI/RAG, and the art direction on top of it.
 
-<br />
+**Now building**
 
+- [Urbano](https://urbano.ba) — civic operating system for a city of 180,000, in production
+- Sinapsa — clinic OS for private practices · [live demo](https://krnetic-demo.jjovan.com)
+- Outreach — internal Playwright + LLM lead-generation engine
+- BLBus — real-time public transit: GTFS-realtime feed, GPS fleet ingest over raw TCP
 
+**Stack** — TypeScript · React / Next.js · React Native / Expo · Node.js · PostgreSQL · Playwright · RAG / pgvector
 
+Most of my work lives in private repos — the products above are the better proof anyway.
 
-### :zap: Recent Activity
-
-
-<!--START_SECTION:activity-->
-
-
-<!--END_SECTION:activity-->
-
-
-
-
-
----
-
-
-
-
-
-<br />
-
-
-
-
-
-![Jovan Jevtic](https://github-readme-stats.vercel.app/api?username=JovanJevtic&show_icons=true&count_private=true)
-
-
-<br />
-
-
-<br />
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JovanJevtic)](https://github.com/JovanJevtic/github-readme-stats)
+Portfolio and case studies: [jjovan.com](https://jjovan.com) · contact@jjovan.com

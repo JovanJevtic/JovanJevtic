@@ -1,13 +1,9 @@
 ### Jovan Jevtić
 
-Software Engineer & Creative — co-founder & CTO at BLink d.o.o (Banja Luka).
+Software Engineer & Creative, co-founder & CTO at BLink d.o.o (Banja Luka).
 I build the whole product: architecture, full-stack web, mobile, AI/RAG, and the art direction on top of it.
 
 Everything below was built in the past year. The decade before it lives at [jjovan.com](https://jjovan.com).
-
-**Open source**
-
-- [stacksniff](https://github.com/JovanJevtic/stacksniff) — detect the SaaS/tech stack a website runs, from static signatures plus a headless Playwright probe. TypeScript, zero-dependency core, 26 tests.
 
 **BLink d.o.o** — the startup. Software a mid-sized city was still missing.
 
@@ -18,7 +14,7 @@ Everything below was built in the past year. The decade before it lives at [jjov
 - Djir — ride-hailing engineered for cash-and-card regional markets
 - Outreach — internal Playwright + LLM lead-generation engine, crawling at scale
 
-**Independent** — client and product work, all of it from this year too.
+**Independent** — client and product work, also from this year.
 
 - [Lana Zrnić](https://lanaz.art) — scroll-driven editorial portfolio for a photographer · live
 - Longi — multi-brand commerce engine with 3D product storytelling
@@ -27,6 +23,6 @@ Everything below was built in the past year. The decade before it lives at [jjov
 
 **Stack** — TypeScript · React / Next.js · React Native / Expo · Node.js · PostgreSQL · Playwright · RAG / pgvector
 
-Most of my work lives in private repos — the products above are the better proof anyway.
+Most of my work is in private repos; the live products are the better proof.
 
 Portfolio and case studies: [jjovan.com](https://jjovan.com) · contact@jjovan.com
